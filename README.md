@@ -46,4 +46,4 @@ Axios({
   });
 ```
 
-To connect to your DB/storage services, follow their specific instruction(usually found in a fetting started with ... tutorials)
+To connect to your DB/storage services, follow their specific instruction(usually found in a getting started with ... tutorials)
