@@ -7,26 +7,26 @@
 1. Get the could using either: git clone | download th zip
 2. In your shell, go to the location you placed the code
 3. Run:
-...js
+,,,js
 npm install 
-...
+,,,
 
 4. Run:
-...js
+,,,js
 node app.js
-...
+,,,
 
 In your shell, you see:
-.
+,
 app is running on 3001| ENV is undefined
-...
+,,,
 
-## Connect with Fromtend:
+## Connect with your frontend:
 
 One of the popular tools to use for api rquest is axios
 in your fronend:
 
-...js
+,,,js
 import Axios from "axios";
 
 Axios({
@@ -48,6 +48,6 @@ Axios({
   }).then(res => {
     console.log(res.data.message);
   });
-...
+,,,
 
-## To connect to your DB/storage services, follow their specific instruction(usually found in a fetting started with ... tutorials)
+To connect to your DB/storage services, follow their specific instruction(usually found in a fetting started with ... tutorials)
