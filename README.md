@@ -1,11 +1,9 @@
 # express-file-router
 
-[![NPM Version][npm-image]][npm-url]
-
 ## How To Set Up:
 
-1. Get the could using either: git clone | download th zip
-2. In your shell, go to the location you placed the code
+1. Get the code using either: git clone | download the zip
+2. In the shell, go to the location you placed the code
 3. Run:
 ```javascript
 npm install 
