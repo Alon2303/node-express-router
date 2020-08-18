@@ -16,10 +16,8 @@ npm install
 node app.js
 ```
 
-In your shell, you see:
-`
-app is running on 3001| ENV is undefined
-```
+In your shell, you shoud see: *app is running on 3001| ENV is undefined*
+
 
 ## Connect with your frontend:
 
